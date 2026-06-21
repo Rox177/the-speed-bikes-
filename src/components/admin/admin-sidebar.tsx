@@ -57,13 +57,3 @@ export function AdminSidebar() {
 
         <button
           onClick={signOut}
-          className="flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-semibold text-destructive hover:bg-destructive/5 transition-all cursor-pointer w-full text-left"
-        >
-          <LogOut className="h-4.5 w-4.5" />
-          <span>Sign Out</span>
-        </button>
-      </nav>
-    </aside>
-  )
-}
-export default AdminSidebar
