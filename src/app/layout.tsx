@@ -3,7 +3,14 @@ import "./globals.css";
 import { Header } from "@/components/layout/header/header";
 import { Footer } from "@/components/layout/footer/footer";
 import { Providers } from "@/components/shared/providers";
-import { SpeedInsights } from "@vercel/speed-insights/next"; 
+import { Analytics } from "@vercel/analytics/next";
+import { SpeedInsights } from "@vercel/speed-insights/next";
+
+<body>
+  {children}
+  <Analytics />
+  <SpeedInsights />
+</body> 
 
 
 export const metadata: Metadata = {
