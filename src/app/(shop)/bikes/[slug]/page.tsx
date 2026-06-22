@@ -48,9 +48,9 @@ export default function BikeDetailPage() {
               slug: 'apex-peak-9',
               tagline: 'Summit Any Peak. Conquer Any Trail.',
               description: 'The Apex Peak-9 represents the pinnacle of electric mountain biking engineering. Built with a full-carbon fiber frame and powered by a high-torque 750W mid-drive motor, it handles vertical climbs effortlessly. Featuring an advanced dual-suspension layout with 160mm travel, this e-bike smoothens the roughest rock gardens and roots. The integrated 720Wh battery ensures you can tackle multiple peaks on a single charge.',
-              price: 4999.00,
+              price: 1199,
               compare_price: 5499.00,
-              thumbnail_url: 'https://images.unsplash.com/photo-1544192240-4a34feb0104a?q=80&w=600&auto=format',
+              thumbnail_url: 'https://www.andskyebike.com/cdn/shop/files/1_9af77a1c-3b80-4ef5-befb-017b6d563ea3.webp?v=1768888627&width=1344',
               image_urls: [
                 'https://images.unsplash.com/photo-1544192240-4a34feb0104a?q=80&w=600&auto=format',
                 'https://images.unsplash.com/photo-1485965120184-e220f721d03e?q=80&w=600&auto=format',
