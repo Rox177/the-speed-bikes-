@@ -33,7 +33,7 @@ export default function BikesPage() {
         if (data && data.length > 0) {
           setProducts(data)
         } else {
-          // Dynamic offline seed fallback
+          // Dynamic offline seed fallback.
           setProducts([
             {
               id: 'p1111111-1111-1111-1111-111111111111',
