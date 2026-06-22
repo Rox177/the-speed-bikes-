@@ -37,13 +37,13 @@ export default function BikesPage() {
           setProducts([
             {
               id: 'p1111111-1111-1111-1111-111111111111',
-              name: 'Apex Peak-9',
-              slug: 'apex-peak-9',
+              name: 'Apex 50',
+              slug: 'Apex 50',
               tagline: 'Summit Any Peak. Conquer Any Trail.',
               description: 'Carbon fiber premium E-MTB.',
-              price: 4999.00,
+              price: 1,199.00,
               compare_price: 5499.00,
-              thumbnail_url: 'https://images.unsplash.com/photo-1544192240-4a34feb0104a?q=80&w=600&auto=format',
+              thumbnail_url: 'https://www.andskyebike.com/cdn/shop/files/1_9af77a1c-3b80-4ef5-befb-017b6d563ea3.webp?v=1768888627&width=1344',
               avg_rating: 4.8,
               review_count: 12,
               is_featured: true,
