@@ -3,6 +3,8 @@ import "./globals.css";
 import { Header } from "@/components/layout/header/header";
 import { Footer } from "@/components/layout/footer/footer";
 import { Providers } from "@/components/shared/providers";
+import { SpeedInsights } from "@vercel/speed-insights/next"; 
+
 
 export const metadata: Metadata = {
   title: "VoltTrail | Premium E-Bike Platform",
