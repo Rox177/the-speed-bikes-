@@ -41,7 +41,7 @@ export default function BikesPage() {
               slug: 'Apex 50',
               tagline: 'Summit Any Peak. Conquer Any Trail.',
               description: 'Carbon fiber premium E-MTB.',
-              price: 1,199.00, 
+              price: 1199, 
               compare_price: 5499.00,
               thumbnail_url: 'https://www.andskyebike.com/cdn/shop/files/1_9af77a1c-3b80-4ef5-befb-017b6d563ea3.webp?v=1768888627&width=1344',
               avg_rating: 4.8,
